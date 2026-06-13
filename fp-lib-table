@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Diode")(type "KiCad")(uri "${KIPRJMOD}/VS6TQ045SM3.kicad_mod")(options "")(descr ""))
+  (lib (name "Transistor")(type "KiCad")(uri "${KIPRJMOD}/LM2679SD-5.0_NOPB")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ProjectLibrary")(type "KiCad")(uri "${KIPRJMOD}/ProjectLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "VS-6TQ045S-M3")(type "KiCad")(uri "${KIPRJMOD}/VS-6TQ045S-M3.kicad_sym")(options "")(descr ""))
+)
